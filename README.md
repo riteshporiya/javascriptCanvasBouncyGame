@@ -4,12 +4,12 @@
 
 ## Table of Contents 📜
 
-- [Description](#description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Description](#description-)
+- [Features](#features-)
+- [Getting Started](#getting-started-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [License](#license-)
 
 ## Description 📝
 
