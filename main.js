@@ -126,11 +126,16 @@ window.onload = function () {
         context.fillStyle = "#ff8080";
         context.fillRect(square.x, square.y, square.width, square.height);
 
-        // Draw a background image (you can replace 'bg.jpg' with your image)
-        var backgroundImage = new Image();
-        backgroundImage.src = 'bg.jpg';
-        context.drawImage(backgroundImage, 0, 0, canvas.width, canvas.height);
-
+        // // Load the ball image
+        // var ballImage = new Image();
+        // ballImage.src = 'ball.jpg'; // Replace 'ball.png' with the path to your ball image
+        //
+        // // Wait for the image to load
+        // ballImage.onload = function() {
+        //     console.log('ball')
+        //     // Draw the ball image inside the square
+        //     context.drawImage(ballImage, square.x, square.y, square.width, square.height);
+        // };
         // Update the scoreboard
         scoreboard.textContent = `Score: ${score} | Level: ${currentLevel}`;
 

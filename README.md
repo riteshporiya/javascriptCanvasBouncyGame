@@ -1,24 +1,19 @@
 # javascript-canvas-bouncy-game 🎮
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](canvas-bouncy-game.png)
 
 ## Table of Contents 📜
 
-- [Description](#description)
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Description](##description)
+- [Features](##features)
+- [Getting Started](##getting-started)
+- [Usage](##usage)
+- [Contributing](##contributing)
+- [License](##license)
 
 ## Description 📝
 
 The Canvas Box Bounce Game is a fun and interactive HTML5 game where you control a bouncing square. Your goal is to click on the square as it moves around the canvas to earn points and increase your score. With each successful click, the square's speed increases, making the game more challenging as you progress. 🚀
-
-## Demo 🕹️
-
-[Play the Game Here](link-to-game)
 
 ## Features 🌟
 
@@ -32,7 +27,7 @@ The Canvas Box Bounce Game is a fun and interactive HTML5 game where you control
 
 Follow these steps to set up the project locally:
 
-1. Clone the repository: `git clone https://github.com/your-username/Canvas-Box-Bounce-Game.git`
+1. Clone the repository: `git clone https://github.com/riteshporiya/javascript-canvas-bouncy-game.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Usage 🎯
